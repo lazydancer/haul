@@ -1,0 +1,11 @@
+.options-button {
+  background-color: #8db3be;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.options-button:active {
+  background-color: #6a8a94;
+}
